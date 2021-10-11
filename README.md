@@ -1,1 +1,1 @@
-# A test of git tagging. This is the first repo
+# A test of git tagging and accessing tags from multiple repos in Jenkins. This is the first repo
