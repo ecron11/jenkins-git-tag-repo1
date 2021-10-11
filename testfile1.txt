@@ -1,0 +1,2 @@
+A test file
+A new line in the test file
